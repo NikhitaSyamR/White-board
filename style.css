@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+.icon{
+    height: 4rem;
+}
+.tool-bar{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+
+}
+.tools{
+    display: flex;
+    gap: 1rem;
+}
